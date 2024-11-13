@@ -3,3 +3,6 @@ test du fichier 1
 modification du fichier 1
 
 abc modification dans la branche nouvelle fonc
+
+petite modif 2
+puis 3
